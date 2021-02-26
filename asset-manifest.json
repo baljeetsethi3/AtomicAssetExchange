@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/AtomicAssetExchange/static/css/main.a0f92c83.chunk.css",
-    "main.js": "/AtomicAssetExchange/static/js/main.64129e9d.chunk.js",
-    "main.js.map": "/AtomicAssetExchange/static/js/main.64129e9d.chunk.js.map",
+    "main.js": "/AtomicAssetExchange/static/js/main.5602d97d.chunk.js",
+    "main.js.map": "/AtomicAssetExchange/static/js/main.5602d97d.chunk.js.map",
     "runtime-main.js": "/AtomicAssetExchange/static/js/runtime-main.09ec1edf.js",
     "runtime-main.js.map": "/AtomicAssetExchange/static/js/runtime-main.09ec1edf.js.map",
     "static/css/2.960d9e63.chunk.css": "/AtomicAssetExchange/static/css/2.960d9e63.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.960d9e63.chunk.css",
     "static/js/2.982b0865.chunk.js",
     "static/css/main.a0f92c83.chunk.css",
-    "static/js/main.64129e9d.chunk.js"
+    "static/js/main.5602d97d.chunk.js"
   ]
 }
