@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/AtomicAssetExchange/static/css/main.a0f92c83.chunk.css",
-    "main.js": "/AtomicAssetExchange/static/js/main.5602d97d.chunk.js",
-    "main.js.map": "/AtomicAssetExchange/static/js/main.5602d97d.chunk.js.map",
-    "runtime-main.js": "/AtomicAssetExchange/static/js/runtime-main.09ec1edf.js",
-    "runtime-main.js.map": "/AtomicAssetExchange/static/js/runtime-main.09ec1edf.js.map",
+    "main.js": "/AtomicAssetExchange/static/js/main.ec13759b.chunk.js",
+    "main.js.map": "/AtomicAssetExchange/static/js/main.ec13759b.chunk.js.map",
+    "runtime-main.js": "/AtomicAssetExchange/static/js/runtime-main.dda872ab.js",
+    "runtime-main.js.map": "/AtomicAssetExchange/static/js/runtime-main.dda872ab.js.map",
     "static/css/2.960d9e63.chunk.css": "/AtomicAssetExchange/static/css/2.960d9e63.chunk.css",
-    "static/js/2.982b0865.chunk.js": "/AtomicAssetExchange/static/js/2.982b0865.chunk.js",
-    "static/js/2.982b0865.chunk.js.map": "/AtomicAssetExchange/static/js/2.982b0865.chunk.js.map",
-    "static/js/3.f01e4c66.chunk.js": "/AtomicAssetExchange/static/js/3.f01e4c66.chunk.js",
-    "static/js/3.f01e4c66.chunk.js.map": "/AtomicAssetExchange/static/js/3.f01e4c66.chunk.js.map",
+    "static/js/2.178d633c.chunk.js": "/AtomicAssetExchange/static/js/2.178d633c.chunk.js",
+    "static/js/2.178d633c.chunk.js.map": "/AtomicAssetExchange/static/js/2.178d633c.chunk.js.map",
+    "static/js/3.84a6aaeb.chunk.js": "/AtomicAssetExchange/static/js/3.84a6aaeb.chunk.js",
+    "static/js/3.84a6aaeb.chunk.js.map": "/AtomicAssetExchange/static/js/3.84a6aaeb.chunk.js.map",
     "index.html": "/AtomicAssetExchange/index.html",
     "static/css/2.960d9e63.chunk.css.map": "/AtomicAssetExchange/static/css/2.960d9e63.chunk.css.map",
     "static/css/main.a0f92c83.chunk.css.map": "/AtomicAssetExchange/static/css/main.a0f92c83.chunk.css.map",
-    "static/js/2.982b0865.chunk.js.LICENSE.txt": "/AtomicAssetExchange/static/js/2.982b0865.chunk.js.LICENSE.txt",
+    "static/js/2.178d633c.chunk.js.LICENSE.txt": "/AtomicAssetExchange/static/js/2.178d633c.chunk.js.LICENSE.txt",
     "static/media/back.dedfacb5.jpg": "/AtomicAssetExchange/static/media/back.dedfacb5.jpg",
     "static/media/logo.6ce24c58.svg": "/AtomicAssetExchange/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.09ec1edf.js",
+    "static/js/runtime-main.dda872ab.js",
     "static/css/2.960d9e63.chunk.css",
-    "static/js/2.982b0865.chunk.js",
+    "static/js/2.178d633c.chunk.js",
     "static/css/main.a0f92c83.chunk.css",
-    "static/js/main.5602d97d.chunk.js"
+    "static/js/main.ec13759b.chunk.js"
   ]
 }
